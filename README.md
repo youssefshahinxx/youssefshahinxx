@@ -56,8 +56,8 @@ My projects reflect my interest in combining software engineering, AI, and produ
 
 - **AI Agents & Business Systems** — Exploring AI-powered assistants, voice agents, and intelligent workflows for real business use cases.
 - **V League** — A sports platform involving athlete profiles, competitions, performance tracking, scoring, rankings, and payments.
-- **Aura** — Exploring a entertainment-based marketplace that connects people with local businesses, activities, and offers.
-- **Developer Tools & AI Systems** — Experimenting with agentic coding workflows, context management, integrations, and ways to make AI systems more useful and reliable.
+- **BBB** — Exploring a entertainment-based system that connects people with local activities, and games.
+- **Developer Tools & AI Systems** — Experimenting with agentic coding workflows, context management, integrations, and ways to make AI more useful and reliable inside system.
 
 I’m especially interested in taking projects beyond the interface: designing the backend, structuring the data, implementing business rules, integrating services, and understanding how the entire system works together.
 
