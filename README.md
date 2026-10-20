@@ -23,12 +23,11 @@ I enjoy understanding how things work under the hood, exploring new technologies
 
 - HTML, CSS, JavaScript/TypeScript, Python
 - SvelteKit, React Native, Angular, Flutter&#x20;
-- Node.js, Express, REST, Flask, FastAPI, and backend development
 
 **Backend & Data**
 
-- Express.js
-- MySQL, PostgreSQL, Supabase
+- Node.js, Express, REST, Flask, FastAPI
+- MySQL, PostgreSQL
 - Database design, business logic, and system integration
 
 **AI Engineering**
@@ -43,10 +42,10 @@ I enjoy understanding how things work under the hood, exploring new technologies
 
 - Git and GitHub
 - VS Code
-- Google AI Studio
 - OpenCode
 - N8n
 - Docker
+- Supabase
 - Cloudflare
 
 I'm continuously expanding my toolkit and exploring how these technologies fit together in complete, maintainable systems.
