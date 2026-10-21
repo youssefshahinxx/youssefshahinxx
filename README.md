@@ -76,9 +76,9 @@ I value collaboration, learning by building, and solving meaningful problems. I'
 
 ## 📫 Connect With Me
 
-- 💬 **Discord:** `youssefshahin.`
+- 🌐 **Discord:** `youssefshahin.`
 - 🔗 **LinkedIn:** [Youssef Shahin](https://www.linkedin.com/in/youssef-shahin-27579220a/)
-- 🐙 **GitHub:** [@youssefshahinxx](https://github.com/youssefshahinxx)
+- 💬 **WhatsApp:** [@youssefshahinxx](https://wa.me/youssefshahinxx)
 
 ---
 
